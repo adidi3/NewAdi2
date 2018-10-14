@@ -5,8 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:id="@+id/background"
-    tools:context=".MainActivity">
+    android:id="@+id/ll1"
+    tools:context=".Main2Activity">
+
 
 
     <Space
@@ -18,8 +19,8 @@
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_weight="2"
-        android:onClick="goo"
-        android:text="הבא"
+        android:onClick="d"
+        android:text="חזור"
         android:layout_height="0dp" />
 
     <Space
